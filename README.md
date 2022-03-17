@@ -9,7 +9,9 @@ __개발환경__:
 | Language |
 |:---:|
 |<img src="https://img.shields.io/badge/python-3.9-blue"/>|
+-----------------------------------------------------------
 
 ## Report
-<src=https://github.com/mingun0112/helmet_yolov3/files/8282273/32194061_.1.pdf/>
-
+<img width=80% src=user-images.githubusercontent.com/70895373/158758279-00574d08-55d7-4ba2-8259-2beb518fe65a.png/>
+<img width=80% src=user-images.githubusercontent.com/70895373/158758282-4260444a-acb0-415b-a338-d09b1dbfba3b.png/>
+<img width=80% src=user-images.githubusercontent.com/70895373/158758285-09529c3b-d364-4830-b890-51f1461d5142.png/>
