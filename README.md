@@ -9,3 +9,6 @@ __개발환경__:
 | Language |
 |:---:|
 |<img src="https://img.shields.io/badge/python-3.9-blue"/>|
+
+[32194061_정민균 (1).pdf](https://github.com/mingun0112/helmet_yolov3/files/8282273/32194061_.1.pdf)
+
