@@ -11,5 +11,5 @@ __개발환경__:
 |<img src="https://img.shields.io/badge/python-3.9-blue"/>|
 
 ## Report
-<img width=80% src=https://github.com/mingun0112/helmet_yolov3/files/8282273/32194061_.1.pdf/>
+<src=https://github.com/mingun0112/helmet_yolov3/files/8282273/32194061_.1.pdf/>
 
